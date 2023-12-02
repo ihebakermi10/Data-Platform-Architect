@@ -2,27 +2,63 @@
 ![image](https://user-images.githubusercontent.com/108534539/218347565-ebebee5e-3de3-427a-8370-cef5e44c3591.png)
 
 
-Français:
 
-L'empreinte en ligne de Digital Rogue Wave se fait principalement via son site web, que les clients consultent à l'aide de divers appareils tels que des ordinateurs portables, des téléphones mobiles et des tablettes.
-Toutes les données de catalogue des produits sont stockées dans le serveur NoSQL MongoDB.
-Toutes les données transactionnelles telles que l'inventaire et les ventes sont stockées dans le serveur de base de données MySQL.
-Le serveur web de Digital Rogue Wave est entièrement alimenté par ces deux bases de données.
-Les données sont extraites périodiquement de ces deux bases de données et placées dans l'entrepôt de données de pré-production fonctionnant sur PostgreSQL.
-L'entrepôt de données de production est sur l'instance cloud du serveur IBM DB2.
-Les équipes de BI se connectent au serveur IBM DB2 pour la création de tableaux de bord opérationnels. IBM Cognos Analytics est utilisé pour créer des tableaux de bord.
-Digital Rogue Wave utilise un cluster Hadoop comme plateforme big data où toutes les données sont collectées à des fins d'analyse.
-Spark est utilisé pour analyser les données sur le cluster Hadoop.
-Pour déplacer les données entre OLTP, NoSQL et l'entrepôt de données, des pipelines ETL sont utilisés, et ceux-ci s'exécutent sur Apache Airflow.
-Anglais:
+🚀 **Annonce de Projet - Digital Rogue Wave**
 
-Digital Rogue Wave's online presence is primarily through its website, which customers access using a variety of devices like laptops, mobiles, and tablets.
-All product catalog data is stored in the MongoDB NoSQL server.
-All transactional data like inventory and sales are stored in the MySQL database server.
-Digital Rogue Wave's webserver is driven entirely by these two databases.
-Data is periodically extracted from these two databases and put into the staging data warehouse running on PostgreSQL.
-Production data warehouse is on the cloud instance of IBM DB2 server.
-BI teams connect to the IBM DB2 for operational dashboard creation. IBM Cognos Analytics is used to create dashboards.
-Digital Rogue Wave uses Hadoop cluster as its big data platform where all the data collected for analytics purposes.
-Spark is used to analyze the data on the Hadoop cluster.
-To move data between OLTP, NoSQL, and the data warehouse, ETL pipelines are used, and these run on Apache Airflow.
+Cher réseau dynamique et innovant,
+
+Nous sommes ravis de dévoiler un nouveau chapitre passionnant dans notre parcours technologique - le projet Digital Rogue Wave! 🌊✨
+
+**Objectif du Projet:**
+Notre objectif audacieux est de propulser Digital Rogue Wave vers de nouveaux sommets de réussite numérique. Nous sommes en quête d'innovation, de performances optimales et d'une expérience utilisateur exceptionnelle.
+
+**Points Forts du Projet:**
+1. **Présence en Ligne Intuitive:** Transformons notre présence en ligne pour offrir une expérience utilisateur immersive, que nos clients naviguent depuis des ordinateurs portables, des smartphones ou des tablettes.
+
+2. **Gestion Avancée des Données:** Optimisons nos bases de données (MongoDB et MySQL) pour une gestion transparente des données transactionnelles et du catalogue produit.
+
+3. **Analyse Big Data:** Explorez de nouvelles frontières avec notre plateforme Big Data (Hadoop et Spark), exploitant le pouvoir des données pour des analyses approfondies.
+
+4. **Tableaux de Bord Interactifs:** La création de tableaux de bord opérationnels avec IBM Cognos Analytics amènera nos rapports à un tout autre niveau, fournissant des insights exploitables en un coup d'œil.
+
+5. **Pipeline ETL Performant:** Optimisons le mouvement des données entre OLTP, NoSQL, et l'entrepôt de données grâce à des pipelines ETL exécutés avec agilité sur Apache Airflow.
+
+**Rejoignez-nous dans cette Odyssée Technologique!**
+Nous sommes à la recherche de talents passionnés pour participer à cette aventure. Si vous êtes prêt à repousser les limites de l'innovation, rejoignez Digital Rogue Wave dans la création de l'avenir numérique.
+
+Ensemble, créons des vagues numériques extraordinaires!
+
+L'équipe Digital Rogue Wave 🚀🌐
+
+
+
+Certainly! Here's the English version of the clearer and more creative project announcement:
+
+---
+
+🚀 **Project Announcement - Digital Rogue Wave**
+
+Dear Dynamic and Innovative Network,
+
+We are thrilled to unveil an exciting new chapter in our technological journey - the Digital Rogue Wave project! 🌊✨
+
+**Project Objective:**
+Our bold aim is to propel Digital Rogue Wave to new heights of digital success. We're on a quest for innovation, peak performance, and an outstanding user experience.
+
+**Key Project Highlights:**
+1. **Intuitive Online Presence:** Let's transform our online presence to deliver an immersive user experience, whether our customers are navigating from laptops, smartphones, or tablets.
+
+2. **Advanced Data Management:** Optimize our databases (MongoDB and MySQL) for seamless handling of transactional data and product catalog.
+
+3. **Big Data Analytics:** Explore new frontiers with our Big Data platform (Hadoop and Spark), harnessing the power of data for in-depth analytics.
+
+4. **Interactive Dashboards:** Creating operational dashboards with IBM Cognos Analytics will elevate our reporting to a whole new level, providing actionable insights at a glance.
+
+5. **Efficient ETL Pipeline:** Streamline data movement between OLTP, NoSQL, and the data warehouse with agile ETL pipelines running on Apache Airflow.
+
+**Join Us on This Technological Odyssey!**
+We're on the lookout for passionate talents to join this adventure. If you're ready to push the boundaries of innovation, join Digital Rogue Wave in shaping the digital future.
+
+Together, let's create extraordinary digital waves!
+
+The Digital Rogue Wave Team 🚀🌐
