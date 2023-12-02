@@ -32,7 +32,6 @@ L'équipe Digital Rogue Wave 🚀🌐
 
 
 
-Certainly! Here's the English version of the clearer and more creative project announcement:
 
 ---
 
