@@ -23,10 +23,7 @@ Notre objectif audacieux est de propulser Digital Rogue Wave vers de nouveaux so
 
 5. **Pipeline ETL Performant:** Optimisons le mouvement des données entre OLTP, NoSQL, et l'entrepôt de données grâce à des pipelines ETL exécutés avec agilité sur Apache Airflow.
 
-**Rejoignez-nous dans cette Odyssée Technologique!**
-Nous sommes à la recherche de talents passionnés pour participer à cette aventure. Si vous êtes prêt à repousser les limites de l'innovation, rejoignez Digital Rogue Wave dans la création de l'avenir numérique.
 
-Ensemble, créons des vagues numériques extraordinaires!
 
 L'équipe Digital Rogue Wave 🚀🌐
 
@@ -55,9 +52,5 @@ Our bold aim is to propel Digital Rogue Wave to new heights of digital success. 
 
 5. **Efficient ETL Pipeline:** Streamline data movement between OLTP, NoSQL, and the data warehouse with agile ETL pipelines running on Apache Airflow.
 
-**Join Us on This Technological Odyssey!**
-We're on the lookout for passionate talents to join this adventure. If you're ready to push the boundaries of innovation, join Digital Rogue Wave in shaping the digital future.
-
-Together, let's create extraordinary digital waves!
 
 The Digital Rogue Wave Team 🚀🌐
